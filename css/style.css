@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap');
 
 body {
+  background-color: #1E1E1E;
   font-family: 'Inter', sans-serif;
   color: white;
   padding-top: 75px;
@@ -8,6 +9,11 @@ body {
 
 h2 {
   font-family: 'Poppins', sans-serif;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
 
 .icon {
