@@ -1,5 +1,5 @@
-import nav_footer from "./components.js";
+import generate_nav_footer from "./components/components.js";
 
 document.addEventListener("DOMContentLoaded", ()=>{
-    nav_footer();
+    generate_nav_footer();
 })
